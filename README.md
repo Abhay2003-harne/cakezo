@@ -98,30 +98,30 @@ CaKeZo is a full-stack Java e-commerce web application built to demonstrate real
 ### User Interface
 
 #### 1. User Home Page
-![User Home](screenshots/01-UserHome.jpg)
+![User Home](screenshots/01-UserHome.png)
 
 #### 2. User Login Page
-![User Login](screenshots/02-UserLogin.jpg)
+![User Login](screenshots/02-UserLogin.png)
 
 #### 3. Successful Login - Welcome
-![Successful Login](screenshots/03-SuccesfulLogin.jpg)
+![Successful Login](screenshots/03-SuccesfulLogin.png)
 
 #### 4. Shopping Cart
-![Shopping Cart](screenshots/04-UserCart.jpg)
+![Shopping Cart](screenshots/04-UserCart.png)
 
 #### 5. My Orders
-![My Orders](screenshots/05-MyOrders.jpg)
+![My Orders](screenshots/05-MyOrders.png)
 
 ### Admin Panel
 
 #### 6. Admin Dashboard
-![Admin Dashboard](screenshots/06-AdminPanel.jpg)
+![Admin Dashboard](screenshots/06-AdminPanel.png)
 
 #### 7. Manage Cakes
-![Manage Cakes](screenshots/07-ManageCakes.jpg)
+![Manage Cakes](screenshots/07-ManageCakes.png)
 
 #### 8. Manage Orders
-![Manage Orders](screenshots/08-ManageOrders.jpg)
+![Manage Orders](screenshots/08-ManageOrders.png)
 
 ## 📊 Database Schema
 
